@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CGPA Calculator\\x64\\Debug\\source.obj",
+            "outputs": [
+                "CGPA Calculator\\x64\\Debug\\source.cpp.obj.dt.module.json",
+                "CGPA Calculator\\x64\\Debug\\source.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

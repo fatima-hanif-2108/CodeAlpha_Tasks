@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CGPA Calculator.vcxproj" Id="5ba045fe-365c-4de4-95ed-99b31bf0718d" />
+</Solution>
